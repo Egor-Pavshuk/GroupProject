@@ -9,3 +9,4 @@ namespace GroupProject.Models
         public List<Student> Students { get; set; }
     }
 }
+
